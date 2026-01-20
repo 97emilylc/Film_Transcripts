@@ -1,0 +1,547 @@
+1
+00:01:58,875 --> 00:02:00,250
+Enemy speed , eight.
+
+2
+00:02:00,917 --> 00:02:03,167
+Angle on the bow, sixty.
+
+3
+00:02:03,292 --> 00:02:05,458
+Enemy speed , eight.
+Angle on the bow, sixty.
+
+4
+00:02:05,583 --> 00:02:08,500
+Enemy speed , eight.
+Angle to bow, sixty. Mark is set.
+
+5
+00:02:09,167 --> 00:02:11,875
+-Depth is set.
+-Depth is set.
+
+6
+00:02:13,542 --> 00:02:15,917
+-Ran0e, five hundred .
+-Ran0e, five hundred .
+
+7
+00:02:16,042 --> 00:02:17,042
+Five hundred .
+
+8
+00:02:17,167 --> 00:02:18,375
+Within firing range.
+
+9
+00:02:20,083 --> 00:02:24,250
+Set torpedo speed , thirty-five knots.
+
+10
+00:02:24,375 --> 00:02:27,083
+Set torpedo speed , thirty-five knots.
+
+11
+00:02:29,625 --> 00:02:31,958
+Spread shots from tubec one and four.
+
+12
+00:02:41,292 --> 00:02:42,875
+Tubes one and four are ready.
+
+13
+00:02:43,000 --> 00:02:45,250
+Tubes one and four are ready.
+
+14
+00:02:47,708 --> 00:02:48,958
+Ready...
+
+15
+00:02:50,708 --> 00:02:52,042
+-Fire!
+-Fire!
+
+16
+00:02:56,458 --> 00:02:57,375
+<i>Torpedoes launched.</i>
+
+17
+00:02:57,500 --> 00:03:00,208
+Five, four, three...
+
+18
+00:03:00,833 --> 00:03:02,625
+two, one.
+
+19
+00:03:03,125 --> 00:03:04,167
+Contact.
+
+20
+00:03:07,042 --> 00:03:08,083
+-Yes!
+-Yes!
+
+21
+00:03:16,833 --> 00:03:18,250
+Great shot, Captain.
+
+22
+00:03:21,333 --> 00:03:22,542
+Yes, gentlemen .
+
+23
+00:03:24,500 --> 00:03:26,542
+We broke their back, gentlemen .
+
+24
+00:03:34,750 --> 00:03:38,208
+Fast screws! Bearing 1 -8-0!
+
+25
+00:03:38,333 --> 00:03:39,583
+A destroyer!
+
+26
+00:03:41,083 --> 00:03:43,708
+Down to ninety metres quickly!
+
+27
+00:03:43,833 --> 00:03:45,708
+Both motors full ahead !
+
+28
+00:03:49,542 --> 00:03:51,833
+AIl hands forward .
+
+29
+00:04:03,500 --> 00:04:06,958
+-Seal torpedo hatches!
+-Seal torpedo hatches!
+
+30
+00:04:07,083 --> 00:04:09,333
+-Starboard rudder, twenty!
+-Starboard rudder, twenty!
+
+31
+00:04:10,708 --> 00:04:11,917
+Starboard rudder, twenty.
+
+32
+00:04:12,458 --> 00:04:14,083
+Check all hull openings!
+
+33
+00:04:14,208 --> 00:04:15,792
+Come about.
+
+34
+00:04:15,917 --> 00:04:18,500
+Passing 20Ü degrees.
+
+35
+00:04:27,917 --> 00:04:30,292
+Forty-five metres. Fast dive, Captain.
+
+36
+00:04:30,833 --> 00:04:32,625
+Both hydroplanes, please.
+
+37
+00:04:34,750 --> 00:04:37,167
+-Bearing?
+-Steady at 22Ü degrees.
+
+38
+00:04:39,458 --> 00:04:41,292
+Contact drawin0 right.
+
+39
+00:04:50,750 --> 00:04:52,333
+Port en0ine stop.
+
+40
+00:04:52,458 --> 00:04:53,875
+Port en0ine stop.
+
+41
+00:04:54,583 --> 00:04:56,042
+Port engine stopped .
+
+42
+00:04:57,333 --> 00:05:01,083
+-Port engine half back.
+-Port engine half back.
+
+43
+00:05:07,292 --> 00:05:08,958
+Depth chargec!
+
+44
+00:05:15,417 --> 00:05:16,750
+Hold on .
+
+45
+00:05:17,833 --> 00:05:19,708
+The Tommies are crapping all over us.
+
+46
+00:06:34,667 --> 00:06:37,458
+Careful , that's fuel Ieaking !
+
+47
+00:06:51,458 --> 00:06:54,042
+Stop that Ieak!
+
+48
+00:07:11,042 --> 00:07:13,417
+She's dropped to 1 20 metres, Captain!
+
+49
+00:07:14,167 --> 00:07:17,667
+Blow all tanks! Surface! Surface!
+
+50
+00:07:52,500 --> 00:07:55,125
+Everythin0 clear! Lookouts to the bridge!
+
+51
+00:07:55,250 --> 00:07:57,583
+Diesel room , answer me!
+
+52
+00:07:58,083 --> 00:08:00,250
+I need a damage report, Hans!
+
+53
+00:08:01,292 --> 00:08:04,583
+They're all dead , Captain .
+AII our mechanics.
+
+54
+00:08:05,375 --> 00:08:07,875
+The Chief Mechanic, the fat kid ,
+
+55
+00:08:08,542 --> 00:08:12,292
+the whole engine crew. All dead .
+
+56
+00:08:13,375 --> 00:08:15,333
+Port exhaust hatch broke.
+
+57
+00:08:15,833 --> 00:08:18,042
+Port diesel is flooded .
+
+58
+00:08:18,792 --> 00:08:21,042
+Crankcase is full of seawater.
+
+59
+00:08:21,167 --> 00:08:23,583
+-Starboard diesel . . .
+-Seized two days a9o.
+
+60
+00:08:28,708 --> 00:08:31,167
+-What about my batteries?
+-Damaged .
+
+61
+00:08:31,292 --> 00:08:35,167
+30Ü amps bow, 2Ü0 stern .
+
+62
+00:08:35,292 --> 00:08:36,875
+It's useless!
+
+63
+00:08:38,792 --> 00:08:42,333
+We have only enough power
+to dive and maybe manoeuvre.
+
+64
+00:08:46,333 --> 00:08:50,500
+Thank you, Hans.
+Pass the word to conserve electricity.
+
+65
+00:08:50,625 --> 00:08:52,208
+-Radioman !
+-Captain?
+
+66
+00:08:54,708 --> 00:08:56,125
+To Berlin .
+
+67
+00:08:56,833 --> 00:09:00,833
+Location 85-32.
+
+68
+00:09:02,875 --> 00:09:06,250
+Diesel engines out. Electric motors only.
+
+69
+00:09:07,625 --> 00:09:09,042
+Send help.
+
+70
+00:17:12,625 --> 00:17:18,375
+I understand your family
+comes from Koblenz.
+
+71
+00:17:19,167 --> 00:17:21,792
+Good Rhine farming folk.
+
+72
+00:17:25,167 --> 00:17:27,708
+You understand me, Mr Wentz?
+
+73
+00:17:30,208 --> 00:17:34,792
+Can you cpeak passable German?
+Can you read and write it?
+
+74
+00:17:34,917 --> 00:17:40,000
+Or are you just a farm boy
+with a German name?
+
+75
+00:17:41,125 --> 00:17:45,042
+I am just a farm boy.
+
+76
+00:17:45,167 --> 00:17:49,500
+One who can read ,
+write and speak quite well .
+
+77
+00:17:50,250 --> 00:17:57,250
+I studied German at Brown University
+before joining the war.
+
+78
+00:18:04,750 --> 00:18:06,333
+Thank you, Wentz.
+
+79
+00:26:59,167 --> 00:27:01,708
+Okay, Chief. Let's give it a test.
+
+80
+00:27:19,542 --> 00:27:20,958
+You said you could repair engines?
+
+81
+00:27:21,083 --> 00:27:26,750
+Captain , I apprenticed in my
+uncle's gara9e, fixing scooters.
+
+82
+00:27:33,167 --> 00:27:34,750
+I need a mechanic!
+
+83
+00:27:52,750 --> 00:27:54,250
+What are they caying, Captain?
+
+84
+00:27:58,458 --> 00:28:00,125
+They want to be our guests.
+
+85
+00:28:02,542 --> 00:28:04,500
+I mpossible. Shoot them .
+
+86
+00:28:08,625 --> 00:28:12,417
+Standing orders of the Führer.
+We will not pick up any survivors.
+
+87
+00:28:14,500 --> 00:28:20,333
+If they are found, they will report
+our position with much eagerness.
+
+88
+00:28:22,292 --> 00:28:23,583
+Get on with it.
+
+89
+00:37:01,958 --> 00:37:08,875
+Our comrades have brought us fresh eggs,
+bananas and even our mail .
+
+90
+00:38:49,958 --> 00:38:53,167
+Ahoy!
+
+91
+00:38:55,958 --> 00:38:57,208
+Ahoy!
+
+92
+00:39:03,833 --> 00:39:06,458
+Ahoy! Welcome.
+
+93
+00:39:07,250 --> 00:39:09,208
+Have we got a job for you .
+
+94
+00:39:18,333 --> 00:39:22,667
+Have we got a job for you .
+
+95
+00:39:32,667 --> 00:39:35,625
+Which of you are the mechanics?
+
+96
+00:39:41,667 --> 00:39:43,625
+Which of you are the mechanics?
+
+97
+00:39:45,917 --> 00:39:48,792
+We're all mechanics.
+And we're all very skilled .
+
+98
+00:39:49,750 --> 00:39:53,250
+We'll have you underway before dawn .
+
+99
+00:39:53,375 --> 00:39:54,708
+Ahoy!
+
+100
+00:39:55,958 --> 00:39:58,417
+Who wants this junk?
+
+101
+00:39:58,542 --> 00:40:05,208
+Pornography and dirty letters
+stinking of French perfume.
+
+102
+00:40:06,917 --> 00:40:09,542
+A cack of pure shit.
+
+103
+00:40:09,667 --> 00:40:10,833
+I should throw it overboard .
+
+104
+00:40:20,625 --> 00:40:21,750
+Come!
+
+105
+00:40:23,292 --> 00:40:24,167
+Come on!
+
+106
+00:40:34,292 --> 00:40:35,958
+Welcome aboard .
+
+107
+00:40:40,708 --> 00:40:42,833
+AIarm!
+
+108
+00:40:58,125 --> 00:41:01,292
+Repel boarders! Alarm dive!
+
+109
+00:42:04,292 --> 00:42:07,833
+FIood all the tanks! Flood all the tanks!
+
+110
+00:42:07,958 --> 00:42:13,083
+Let's drown these vermin ! Move your arses!
+
+111
+00:42:16,750 --> 00:42:17,708
+Faster!
+
+112
+00:59:02,000 --> 00:59:03,500
+My job?
+
+113
+00:59:03,625 --> 00:59:07,500
+Electrician . I am an electrician .
+
+114
+01:12:47,042 --> 01:12:48,250
+Hello, 9entlemen .
+
+115
+01:12:50,208 --> 01:12:51,500
+Give us a hand with the lines.
+
+116
+01:12:51,625 --> 01:12:53,000
+Yes, 0ladly.
+
+117
+01:12:54,542 --> 01:12:56,667
+What are they doing?
+
+118
+01:12:59,292 --> 01:13:00,792
+Something'c wrong .
+
+119
+01:13:02,417 --> 01:13:04,000
+Go back!
+
+120
+01:13:05,083 --> 01:13:07,875
+-Go back! Go back!
+-Go back!
+
+121
+01:13:11,000 --> 01:13:12,458
+Back to the ship!
+
+122
+01:13:45,167 --> 01:13:47,917
+Get to the forward 0un!
+They're firing on us.
+
+123
+01:13:48,042 --> 01:13:49,625
+Who, sir?
+
+124
+01:13:49,750 --> 01:13:52,167
+The cubmarine.
+They've blown up our radio tower!
+
+125
+01:17:28,792 --> 01:17:31,500
+Short Intervals.
+
+126
+01:17:33,875 --> 01:17:35,042
+Prepare charges!
+
+127
+01:17:35,917 --> 01:17:37,917
+Set depth at 25.
+
+128
+01:26:27,750 --> 01:26:29,542
+Release chargec!
+
+129
+01:44:48,458 --> 01:44:50,250
+They fired a torpedo!
+
+
